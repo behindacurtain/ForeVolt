@@ -9,6 +9,16 @@ If you have questions, contact: **gagedunstan@gmail.com**
 
 ---
 
+## ForeVolt 1.1: accounts and purchases
+
+This section applies when you use ForeVolt 1.1. ForeVolt 1.1 does not offer ForeVolt sign-up or sign-in, and does not use Firebase for ForeVolt accounts or Pro access. Apple handles payments. ForeVolt uses Apple’s StoreKit to check access to Pro from a Lifetime purchase or an eligible existing subscription. Restoring a purchase does not create a ForeVolt account.
+
+If you have a question about a ForeVolt account from an earlier version, contact ForeVolt support at the address above.
+
+## Earlier ForeVolt versions, including 1.0
+
+The original notice below describes the account and billing features of earlier versions.
+
 ## 1. Summary
 
 - ForeVolt uses **Firebase Authentication** to let you create an account and sign in.
